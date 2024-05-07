@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, Pressable, Dimensions, Modal,} from 'react-native';
+import { View, Text,Pressable, Modal,} from 'react-native';
 import { TextInput } from 'react-native-paper';
 
 
